@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s5unnyjjj@gmail.com)](mailto:s5unnyjjj@gmail.com)
 <br><br>
 
-![S5unnyjjj's GitHub stats](https://github-readme-stats.vercel.app/api?username=s5unnyjjj&show_icons=true&theme=radical)
+![S5unnyjjj's GitHub stats](https://github-readme-stats.vercel.app/api?username=s5unnyjjj&show_icons=true&theme=radical)<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s5unnyjjj)](https://solved.ac/s5unnyjjj/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s5unnyjjj&layout=compact)

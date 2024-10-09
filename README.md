@@ -1,7 +1,6 @@
 # 😶‍🌫️ s5unnyjjj
 Hi, I'm s5unnyjjj.
-<br>
-<br>
+<br><br>
 <!--
 **s5unnyjjj/s5unnyjjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,6 +26,7 @@ Here are some ideas to get you started:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED.svg?&style=for-the-badge&logo=ONNX&logoColor=white)
 
+<br><br>
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white)

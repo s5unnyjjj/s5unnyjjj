@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://s5unnyjjj.tistory.com/)](https://s5unnyjjj.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s5unnyjjj@gmail.com)](mailto:s5unnyjjj@gmail.com)
+<br><br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s5unnyjjj)](https://solved.ac/s5unnyjjj/)
 ![S5unnyjjj's GitHub stats](https://github-readme-stats.vercel.app/api?username=s5unnyjjj&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s5unnyjjj)](https://solved.ac/s5unnyjjj/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s5unnyjjj&layout=compact)

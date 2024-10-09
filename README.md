@@ -2,7 +2,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s5unnyjjj)](https://solved.ac/s5unnyjjj/)
 ![S5unnyjjj's GitHub stats](https://github-readme-stats.vercel.app/api?username=s5unnyjjj&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s5unnyjjj&layout=compact)
 
 <!--
 **s5unnyjjj/s5unnyjjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 # s5unnyjjj 😶‍🌫️
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s5unnyjjj)](https://solved.ac/s5unnyjjj/)
-![S5unnyjjj's GitHub stats](https://github-readme-stats.vercel.app/api?username=s5unnyjjj&show_icons=true&theme=radical)
+![S5unnyjjj's GitHub stats](https://github-readme-stats.vercel.app/api?username=s5unnyjjj&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s5unnyjjj&layout=compact)
 
 <!--

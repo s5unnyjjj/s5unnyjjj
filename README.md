@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED.svg?&style=for-the-badge&logo=ONNX&logoColor=white)
 
-<br><br>
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+<br><br>
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://s5unnyjjj.tistory.com/)](https://s5unnyjjj.tistory.com/)

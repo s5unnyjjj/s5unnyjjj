@@ -3,7 +3,7 @@ Hi, I'm s5unnyjjj, and AI engineer. <br>
 I am continuously and diligently working to improve my skills, believing that persistent effort will lead to significant growth and expertise in these areas😌
 <br><br>
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)<br>
-![](https://visitor-badge.glitch.me/badge?page_id=s5unnyjjj)<br>
+![](https://visitor-badge.glitch.me/badge?page_id=s5unnyjjj@gmail.com)<br>
 
 ## 📬Contact
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://s5unnyjjj.tistory.com/)](https://s5unnyjjj.tistory.com/)

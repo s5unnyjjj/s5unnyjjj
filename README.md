@@ -3,9 +3,10 @@ Hi, I'm s5unnyjjj,
 and AI engineer. <br><br>
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)<br>
 
-### Contacts
+# 📬Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://s5unnyjjj.tistory.com/)](https://s5unnyjjj.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s5unnyjjj@gmail.com)](mailto:s5unnyjjj@gmail.com)
+
 <br><br>
 <!--
 **s5unnyjjj/s5unnyjjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

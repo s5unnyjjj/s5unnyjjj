@@ -1,6 +1,6 @@
 # 😶‍🌫️ s5unnyjjj
+Hi, I'm s5unnyjjj. <br>
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)<br>
-Hi, I'm s5unnyjjj.
 
 ### Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://s5unnyjjj.tistory.com/)](https://s5unnyjjj.tistory.com/)

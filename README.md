@@ -29,6 +29,7 @@ Here are some ideas to get you started: :mailbox_with_mail
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED.svg?&style=for-the-badge&logo=ONNX&logoColor=white)
 <br>
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)

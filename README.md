@@ -1,5 +1,6 @@
 # 😶‍🌫️ s5unnyjjj
-Hi, I'm s5unnyjjj. <br>
+Hi, I'm s5unnyjjj,
+and AI engineer. <br><br>
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)<br>
 
 ### Contacts

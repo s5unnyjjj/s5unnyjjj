@@ -2,7 +2,7 @@
 Hi, I'm s5unnyjjj, and AI engineer. <br>
 I am continuously and diligently working to improve my skills, believing that persistent effort will lead to significant growth and expertise in these areas😌
 <br><br>
-[![Visited](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs5unnyjjj&count_bg=%2379C83D&title_bg=#c92a2a&icon=&icon_color=%23E7E7E7&title=Visited&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Visited](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs5unnyjjj&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visited&edge_flat=false)](https://hits.seeyoufarm.com)
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)<br>
 
 ## 📬Contact

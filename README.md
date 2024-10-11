@@ -38,6 +38,6 @@ Here are some ideas to get you started: :mailbox_with_mail
 <br><br>
 
 ![S5unnyjjj's GitHub stats](https://github-readme-stats.vercel.app/api?username=s5unnyjjj&show_icons=true&theme=radical)<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=s5unnyjjj&theme=dark)](https://git.io/streak-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s5unnyjjj)](https://solved.ac/s5unnyjjj/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s5unnyjjj&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=s5unnyjjj&theme=dark)](https://git.io/streak-stats)

@@ -49,4 +49,3 @@ Here are some ideas to get you started: :mailbox_with_mail
 
 ## 🛠️ Github Stats
 ![S5unnyjjj's GitHub stats](https://github-readme-stats.vercel.app/api?username=s5unnyjjj&show_icons=true&theme=radical)<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=s5unnyjjj&theme=dark)](https://git.io/streak-stats)<br>
